@@ -1,0 +1,137 @@
+[
+  {
+    "recetaID": "receta_01",
+    "nombre": "Locro de Papas",
+    "descripción": {
+      "detalle": "Sopa espesa de papas con queso, típica de la región andina.",
+      "región": "Sierra"
+    },
+    "tiempoPreparacion": 40,
+    "instrucciones": [
+      "Pelar y cortar las papas en trozos medianos.",
+      "Cocinar las papas con cebolla, ajo y achiote en agua hasta que estén suaves.",
+      "Agregar leche y queso, revolver hasta que el queso se derrita.",
+      "Servir caliente con aguacate en rodajas y cilantro picado."
+    ],
+    "ingredientes": {
+      "frutas": [
+        {
+          "nombre": "Aguacate",
+          "cantidad": 1,
+          "unidad": "pieza",
+          "informacionNutricional": {
+            "calorías": 250,
+            "grasas": 23,
+            "proteínas": 3,
+            "carbohidratos": 12,
+            "glucosa": 0.2
+          }
+        }
+      ],
+      "lacteos": [
+        {
+          "nombre": "Queso Fresco",
+          "cantidad": 150,
+          "unidad": "gramos",
+          "informacionNutricional": {
+            "calorías": 375,
+            "grasas": 30,
+            "proteínas": 22.5,
+            "carbohidratos": 3,
+            "glucosa": 3
+          }
+        },
+        {
+          "nombre": "Leche",
+          "cantidad": 500,
+          "unidad": "mililitros",
+          "informacionNutricional": {
+            "calorías": 200,
+            "grasas": 8,
+            "proteínas": 16,
+            "carbohidratos": 24,
+            "glucosa": 12
+          }
+        }
+      ],
+      "proteinas": null,
+      "verduras": [
+        {
+          "nombre": "Papa",
+          "cantidad": 4,
+          "unidad": "pieza",
+          "informacionNutricional": {
+            "calorías": 400,
+            "grasas": 0.4,
+            "proteínas": 8,
+            "carbohidratos": 92,
+            "glucosa": 2
+          }
+        }
+      ],
+      "semillas": null
+    },
+    "imagenURL": "https://www.comedera.com/wp-content/uploads/2022/08/locro-de-papas.jpg"
+  },
+  { 
+    "recetaID": "receta_02",
+    "nombre": "Cuy Asado",
+    "descripción": {
+      "detalle": "Cuy asado al estilo tradicional andino, servido con papas y salsa de maní.",
+      "región": "Sierra"
+    },
+    "tiempoPreparacion": 120,
+    "instrucciones": [
+      "Lavar y sazonar el cuy con ajo, sal, y achiote.",
+      "Asar el cuy sobre brasas hasta que esté dorado y crujiente.",
+      "Servir con papas cocidas y salsa de maní."
+    ],
+    "ingredientes": {
+      "frutas": null,
+      "lacteos": null,
+      "proteinas": [
+        {
+          "nombre": "Cuy",
+          "cantidad": 1,
+          "unidad": "pieza",
+          "informacionNutricional": {
+            "calorías": 600,
+            "grasas": 45,
+            "proteínas": 55,
+            "carbohidratos": 0,
+            "glucosa": 0
+          }
+        }
+      ],
+      "verduras": [
+        {
+          "nombre": "Papa",
+          "cantidad": 4,
+          "unidad": "pieza",
+          "informacionNutricional": {
+            "calorías": 400,
+            "grasas": 0.4,
+            "proteínas": 8,
+            "carbohidratos": 92,
+            "glucosa": 2
+          }
+        }
+      ],
+      "semillas": [
+        {
+          "nombre": "Maní",
+          "cantidad": 100,
+          "unidad": "gramos",
+          "informacionNutricional": {
+            "calorías": 567,
+            "grasas": 49,
+            "proteínas": 25,
+            "carbohidratos": 16,
+            "glucosa": 4
+          }
+        }
+      ]
+    },
+    "imagenURL": "https://cuyperu.com/wp-content/uploads/2023/07/000258537M-1.jpg"
+  }
+]
